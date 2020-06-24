@@ -1,0 +1,9 @@
+import java.io.*;
+
+public class Testing {
+	public static void main(String[] args) throws FileNotFoundException {
+		BufferedReader f = new BufferedReader(new FileReader("assets/input100K.txt"));
+		
+		
+	}
+}

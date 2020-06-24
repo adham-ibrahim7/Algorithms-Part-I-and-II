@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;_24_Permuatation&apos; to &apos;_24_Permutation&apos;&#x0D;&#x0A;- Original project: &apos;Euler Project&apos;&#x0D;&#x0A;- Original element: &apos;_24_Permuatation&apos;&#x0D;&#x0A;- Renamed element: &apos;_24_Permutation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;_24_Permuatation&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{_24_Permuatation.java[_24_Permuatation" matchStrategy="1" name="_24_Permutation" qualified="false" references="true" similarDeclarations="true" stamp="1591720278486" textual="false" version="1.0"/>
+</session>
