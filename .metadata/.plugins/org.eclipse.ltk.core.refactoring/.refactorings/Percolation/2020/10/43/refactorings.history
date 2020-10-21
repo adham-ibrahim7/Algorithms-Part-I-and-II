@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PercolationVisualizer.java&apos; to &apos;Percolation/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Percolation&apos;&#x0D;&#x0A;- Destination element: &apos;Percolation/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;PercolationVisualizer.java&apos;" description="Copy file" destination="/src&lt;" element1="assets/PercolationVisualizer.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1603230990517" units="0" version="1.0"/>
+</session>
