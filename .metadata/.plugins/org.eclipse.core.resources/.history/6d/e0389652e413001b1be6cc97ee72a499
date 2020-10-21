@@ -4,6 +4,7 @@ import java.util.Stack;
 import java.util.concurrent.TimeUnit;
 
 import edu.princeton.cs.algs4.StdDraw;
+import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 
 /*
@@ -119,6 +120,9 @@ public class AnimatedConvexHull {
 	
 	//animate the drawing process
 	public void animate() throws InterruptedException {
+		showPoints();
+		StdIn.readInt();
+		
 		while (!isDone()) next();
 		//connect end to start
 		stack.add(p);
