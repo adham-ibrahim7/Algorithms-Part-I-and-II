@@ -64,8 +64,8 @@ public class PercolationStats {
 
    // test client (see below)
    public static void main(String[] args) {
-	   int N = 200;//Integer.parseInt(args[0]);
-	   int T = 1000;//Integer.parseInt(args[1]);
+	   int N = 1000;//Integer.parseInt(args[0]);
+	   int T = 100;//Integer.parseInt(args[1]);
 	   
 	   PercolationStats stats = new PercolationStats(N, T);
 	   System.out.println("mean                    = " + stats.mean());
