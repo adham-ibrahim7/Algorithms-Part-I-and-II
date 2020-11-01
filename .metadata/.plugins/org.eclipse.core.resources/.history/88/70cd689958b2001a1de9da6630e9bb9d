@@ -1,7 +1,0 @@
-import java.io.*;
-
-public class Testing {
-	public static void main(String[] args) {
-		BufferedReader f = new BufferedReader(new FileReader("assets/input100K.txt"));
-	}
-}

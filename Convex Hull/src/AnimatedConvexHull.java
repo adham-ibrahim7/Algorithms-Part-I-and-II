@@ -190,7 +190,7 @@ public class AnimatedConvexHull {
 	
 	//test client
 	public static void main(String[] args) throws InterruptedException {
-		AnimatedConvexHull ach = new AnimatedConvexHull(100);
+		AnimatedConvexHull ach = new AnimatedConvexHull(50);
 		ach.animate();
 	}
 }
